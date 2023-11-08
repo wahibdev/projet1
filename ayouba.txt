@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 jklhnjkhjm
 hello
+=======
+yellow
+>>>>>>> bf562b1592d1e39df5d76731ea433c9d63d68a83
